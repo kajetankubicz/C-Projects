@@ -4,5 +4,5 @@ I created these projects on my first semester of engineering studies in order to
 
 ## Contents
 
-Memory folder contains the same project with both both english and polish version of comments.
-Translator folder contains project with polsih comments. 
+    - Memory folder contains the same project with both both english and polish version of comments.
+    - Translator folder contains project with polsih comments. 
